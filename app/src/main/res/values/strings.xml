@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DnDamb</string>
+    <string name="lowenergybutt_name">General Ambience</string>
+    <string name="socialgathbutt_name">Environment</string>
+    <string name="combatbutt_name">Combat</string>
+    <string name="weatherbutt_name">Weather</string>
+    <string name="rainbutt_name">Rain (Gentle)</string>
+    <string name="rain2butt_name">Rain (Thunder)</string>
+    <string name="windbutt_name">Wind (Gentle)</string>
+    <string name="wind2butt_name">Wind (Intense)</string>
+    <string name="firebutt_name">Fire (Gentle)</string>
+    <string name="fire2butt_name">Fire (Intense)</string>
+    <string name="weather_volume_head">Weather Volume</string>
+    <string name="fxbutton_name">Audio Effects</string>
+    <string name="genCombatButt_name">General Fight</string>
+    <string name="bossCombatButt_name">Boss Fight</string>
+    <string name="combatvolslider_name">Combat Volume</string>
+</resources>
